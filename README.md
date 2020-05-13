@@ -1,5 +1,5 @@
 # Brew Crew
-this project is about how your friends love thier cofee (how much shoger they want , how mush dark is it )
+this project is about how your friends love thier cofee (how much sugar they want , how mush dark is it )
 
 in this project you can:
 -signin 
